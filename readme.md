@@ -7,3 +7,5 @@ nie wiem czy Ci to
 zdolam kiedykolwiek
 
 <!-- wybaczyc?  -->
+
+Jade do Clonegal, bede kolo 9tej paaaa
