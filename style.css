@@ -7,7 +7,7 @@
 
 bold {
   font-weight: bold;
-  color: blue;
+  color: rgb(255, 0, 234);
 }
 body{
     font-family: 'Montserrat', sans-serif;
@@ -18,7 +18,7 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
-    background-color: antiquewhite;
+    background-color: rgba(250, 235, 215, 0.623);
 }
 
 button.klikany.guzik {
